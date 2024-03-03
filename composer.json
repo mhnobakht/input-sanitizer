@@ -1,0 +1,20 @@
+{
+    "name": "academy01/input-sanitizer",
+    "description": "PHP Package to Sanitizes a String or Array to prevent common Vulnerabilities",
+    "require": {
+        "php": "^8.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Academy01\\InputSanitizer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mhnobakht",
+            "email": "01programmingacademy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
